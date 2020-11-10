@@ -1,0 +1,22 @@
+.divFormulario{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.divFormulario h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.divFormulario h3{
+    text-decoration: underline;
+}
+
+.tarjeta{
+    height: 100%;
+    border: 1px solid grey;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
